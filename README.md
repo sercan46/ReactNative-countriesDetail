@@ -1,3 +1,9 @@
-# ReactNative-countriesDetail
-Ön tarafı React Native, arka tarafı ülkelerin bilgilerini sunan ve ülke bayraklarını gösteren iki tane ayrı Web API kullanarak geliştirdim.
-Ülkeler sıralı bir şekilde listelenmektedir, ayrıca isim veya kodlarına göre filtre edilebilmektedir. İstenilen ülkenin içeriğini açarak o ülke hakkında telefon kodu, domain uzantısı, başkenti, para birimi, ülke nüfusu, yüz ölçümü, ülkede kullanılan diller, komşu ülkeleri vb bilgiler detaylı bir şekilde gösterilmektedir.
+# Countries Detail
+
+I developed it using React Native on the front and two separate Web APIs on the back, which present the country information and display the country flags. Countries are listed in order, they can also be filtered by name or code. By opening the content of the desired country, the phone code, domain extension, capital, currency, country population, area, languages used in the country, neighboring countries, etc. information about that country is shown in detail.
+
+## To start the project
+
+npm install
+
+react-native run-android || react-native run-ios
